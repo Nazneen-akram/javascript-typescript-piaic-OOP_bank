@@ -28,7 +28,7 @@ This is a Node.js script that simulates a simple bank account management system.
 
 ## Customization
 
-You can customize the script to change the transaction fee, initial account balance, or the structure of the questions asked during the account creation process. These modifications can be made directly in the `bank-account.js` file.
+You can customize the script to change the transaction fee, initial account balance, or the structure of the questions asked during the account creation process. These modifications can be made directly in the `bank.js` file.
 
 ## Author
 Nazneen Akram
